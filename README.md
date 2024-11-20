@@ -1,1 +1,1 @@
-"# django-vben-admin" 
+# django-vben-admin
